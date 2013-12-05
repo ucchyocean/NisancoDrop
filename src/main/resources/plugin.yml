@@ -1,0 +1,5 @@
+name: NisancoDrop
+main: org.bitbucket.ucchy.nd.NisancoDrop
+version: 0.1.0
+author: ucchy
+description: プレイヤーがmobやプレイヤーに殺された際にインベントリからrandomでアイテムをドロップするというプラグインです２つか３つくらい
