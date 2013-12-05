@@ -3,16 +3,17 @@ NisancoDrop
 
 プレイヤーが死亡した時に、インベントリからランダムに2個または3個のアイテムを選んで、ドロップします。
 
-- keepInventory=trueの場合<br />　インベントリからランダムに2個または3個のアイテムを選んでドロップし、残りのアイテムはリスポーン後もキープしたままにします。
-- keepInventory=falseの場合<br />　ドロップするアイテムのうち2個または3個のアイテムを選んでそのままドロップし、残りのドロップを消去します。
+- keepInventory=trueの場合<br />インベントリからランダムに2個または3個のアイテムを選んでドロップし、残りのアイテムはリスポーン後もキープしたままにします。
+- keepInventory=falseの場合<br />ドロップするアイテムのうち2個または3個のアイテムを選んでそのままドロップし、残りのドロップを消去します。
 
 ダウンロード
 ------------
-＜あとでここにURLを貼る＞
+v0.1.0<br />
+https://github.com/ucchyocean/NisancoDrop/blob/master/release/NisancoDrop_v010.zip?raw=true
 
 使い方
 ------
-pluginsフォルダにNisancoDrop.jar ファイルを突っ込むだけです。
+pluginsフォルダに NisancoDrop.jar ファイルを突っ込むだけです。
 
 ライセンス
 ----------
